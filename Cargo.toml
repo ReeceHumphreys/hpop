@@ -1,0 +1,11 @@
+[package]
+name = "hpop"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cgmath = "0.18.0"
+GSL = "6.0.0"
+finitediff = "0.1.4"
