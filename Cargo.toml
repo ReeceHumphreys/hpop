@@ -9,6 +9,8 @@ edition = "2021"
 cgmath = "0.18.0"
 GSL = "6.0.0"
 finitediff = "0.1.4"
+ndarray = "0.15.4"
+ndarray-linalg = "0.14.1"
 
 [dev-dependencies]
 criterion = "0.3.5"
